@@ -1,0 +1,5 @@
+{
+  "name": "Glitch Video Editor",
+  "description": "An in-browser video editor that allows you to upload a video, apply and mix up to 20 modular glitch effects in real-time, and export the final product as an MP4 file.",
+  "requestFramePermissions": []
+}
